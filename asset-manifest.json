@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/water-calculator/static/css/main.d17ed2da.chunk.css",
+    "main.js": "/water-calculator/static/js/main.3759d876.chunk.js",
+    "main.js.map": "/water-calculator/static/js/main.3759d876.chunk.js.map",
+    "runtime-main.js": "/water-calculator/static/js/runtime-main.de77a3b9.js",
+    "runtime-main.js.map": "/water-calculator/static/js/runtime-main.de77a3b9.js.map",
+    "static/css/2.14c36052.chunk.css": "/water-calculator/static/css/2.14c36052.chunk.css",
+    "static/js/2.124c83ee.chunk.js": "/water-calculator/static/js/2.124c83ee.chunk.js",
+    "static/js/2.124c83ee.chunk.js.map": "/water-calculator/static/js/2.124c83ee.chunk.js.map",
+    "index.html": "/water-calculator/index.html",
+    "static/css/2.14c36052.chunk.css.map": "/water-calculator/static/css/2.14c36052.chunk.css.map",
+    "static/css/main.d17ed2da.chunk.css.map": "/water-calculator/static/css/main.d17ed2da.chunk.css.map",
+    "static/js/2.124c83ee.chunk.js.LICENSE.txt": "/water-calculator/static/js/2.124c83ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de77a3b9.js",
+    "static/css/2.14c36052.chunk.css",
+    "static/js/2.124c83ee.chunk.js",
+    "static/css/main.d17ed2da.chunk.css",
+    "static/js/main.3759d876.chunk.js"
+  ]
+}
